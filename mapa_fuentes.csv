@@ -1,0 +1,9 @@
+﻿archivo,fuente,estado,accion
+corrientes_dwsim.csv,"DWSIM V1, corrientes 23 / flash-vapor / flash liq",Datos simulacion incluidos,Verificar contra version actual de DWSIM
+materiales_b165.csv,B16.5-2025 tabla 1.1-1,Registro F316L incluido,Otros materiales: agregar mapeo exacto
+ratings_pt.csv,B16.5-2025 tabla 2-2.3,"Grupo 2.3, hasta 38 C",Otras temperaturas y grupos: pendiente
+especificacion_ii_a.csv,BPVC II-A 2019 SA-182/SA-182M,Solo plantilla,Añadir propiedades aplicables tras consulta/licencia
+propiedades_ii_d.csv,BPVC II-D 2019 tabla 1A,Solo plantilla,Añadir S del grado y temperatura correctos
+dimensiones_bridas.csv,B16.5-2025 tabla 8 (Class 150 WN),Solo plantilla,"Añadir dimensiones para NPS calculado desde tabla, revisar notas"
+caras_y_acabados.csv,"B16.5-2025 §6.4 y §6.4.5, figura 6, tabla 4",Solo plantilla,Añadir RF/acabado verificado
+tuberias_b3619.csv,ASME B36.19M (no incluido),Solo plantilla,Se requiere norma o ficha de fabricante trazable
