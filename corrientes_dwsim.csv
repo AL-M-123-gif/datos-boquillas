@@ -1,0 +1,4 @@
+﻿corriente,tag,fase,presion_kpa_abs,temperatura_c,caudal_kg_h,caudal_m3_s,velocidad_diseno_m_s,procedencia
+Alimentacion,23,Bifasica,5,10.08,4450.93,2.505679,10,Simulacion DWSIM; velocidad asumida para predimensionamiento
+Salida_vapor,flash-vapor,Vapor,5,10.08,1353.33,2.504779,20,Simulacion DWSIM; velocidad asumida para predimensionamiento
+Salida_liquido,flash liq,Liquido,5,10.08,3097.58,0.000884,1.5,Simulacion DWSIM; velocidad asumida para predimensionamiento
